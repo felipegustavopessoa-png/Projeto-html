@@ -1,1 +1,16 @@
+body {
+    background-color: #10bfde;
+    color: rgb(0, 0, 0);
+    font-family:  "Oswald", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
 
+button{
+    background-color:aquamarine;
+    color: black;
+    font-family:  "Oswald", sans-serif;
+}
